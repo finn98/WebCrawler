@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author jbixlow
+ *
  *
  */
 package webcrawler;
