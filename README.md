@@ -1,7 +1,7 @@
 # WebCrawler
 
 ## Run
-* Directory to "Web Crawler"/bin/
+* Change Directory to "Web Crawler"/bin/
 * java webcralwer.Main
 
 
